@@ -1,2 +1,1 @@
-# soge
-Github
+<https://paksunjun.netlify.app/>netlify
