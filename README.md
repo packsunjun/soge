@@ -1,2 +1,2 @@
-https://packsunjun.github.io/soge/(gitgub)
-  https://paksunjun.netlify.app/(netlify)
+    https://packsunjun.github.io/soge/
+  https://paksunjun.netlify.app/
