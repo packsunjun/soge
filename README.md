@@ -1,2 +1,4 @@
-https://packsunjun.github.io/soge/<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-https://paksunjun.netlify.app/
+<a href="https://packsunjun.github.io/soge/"><img src="#181717"></a>
+
+
+<a href="https://paksunjun.netlify.app/"><img src="#00C7B7"></a>
